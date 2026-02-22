@@ -118,9 +118,7 @@ _You can interact with the dashboard File_ [here](https://github.com/ErickHdez61
 - Improve operational efficiency
 - Make informed pricing and marketing decisions
 - Monitor performance using real-time KPIs
-
-## 👤 About Me
-<p align="justify">Eric – Data Analyst</p>
-<p align="justify">I help businesses turn raw data into meaningful insights through data cleaning, analysis, visualization, and storytelling.</p>
-
-<p align="justify">📫 Feel free to connect with me on LinkedIn or explore my other projects on GitHub.</p>
+  
+### Author  
+Erick Hernández  
+Data Analytics Portfolio Project
